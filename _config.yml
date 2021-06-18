@@ -91,9 +91,9 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Utilized research skills on faculty-led health projects
-          -Tested hypotheses paired with current methods to answer questions about health and disease
-          -Analyzed data to create oral and writeen reports about mental health as a research topic
-          -Conducted searches of databases to create analysis and literature reviews
+          - Tested hypotheses paired with current methods to answer questions about health and disease
+          - Analyzed data to create oral and writeen reports about mental health as a research topic
+          - Conducted searches of databases to create analysis and literature reviews
   - title: Education
     layout: list
     content:
